@@ -1,16 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![liu07-jing](https://img.shields.io/badge/liu07-jing-github-blue?logo=github)](https://github.com/liu07-jing)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
+I am a college student in Jiaxing University,majoring in accounting.
 #### Email
-sli[at]cumt.edu.cn
+<code>2064811337@qq.com</code>
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Jiaxing University,2024
+Lishui College affiliated High School,2021-2024
+Lishui Economic and Technological Development Zone No.1 Middle(Primary)School,2016-2021
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Deep Learning,economic foundation,enterprise business analysis.
