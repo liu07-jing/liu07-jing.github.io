@@ -1,0 +1,4 @@
+- In junior high school,I was selected as an outstanding student to receive the scholarship from the sponsoring group due to my excellent performance.
+- When I was in high school,I was very fond of politics,so I signed up to participate in the youth Mock CPPCC proposal activity.In the first time,I was shortlisted for the municipal on-site exchange and won the provincial Excellent Research Report Award for the secong time,which greatly improved my speech ability and courage,and I learned a lot.
+- In the first semester of my freshman year,I joined the Propaganda Department of the Youth Association and learned how to make tweets and plan projects,which gradually made me confident and capable.
+-In the second semester of my freshman year,I tried to be a tutor.Though the tutor,I had a better understanding of how to express myself and how to teach,which not only exercised my thinking,but also improved my language ability.
